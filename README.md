@@ -1,5 +1,5 @@
 # NameFinder
-Program that retrieves the names on given website using OpenNLP, using jsoup library to get the body section of the web page.
+Program that retrieves the names on given website using OpenNLP, and gets the body section of the web page using jsoup library.
 
 # How to run
 This is a maven project to you have to run this command first
